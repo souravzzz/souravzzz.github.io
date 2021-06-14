@@ -1,0 +1,50 @@
+
+.profile-picture {
+	float: left;
+	margin-right: 24px;
+	margin-bottom: 24px;
+	max-width: 40%;
+	border: 6px solid #ddd;
+	border-radius: 6px;
+	box-sizing: border-box;
+}
+
+@media screen and (max-width: 600px) {
+	.profile-picture {
+		display: block;
+		float: none;
+		max-width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+ul.publications {
+	list-style: none;
+	margin: 0;
+}
+
+ul.publications li {
+	margin-bottom: 25px;
+}
+
+ul.publications .title {
+	display: block;
+}
+
+ul.publications .authors {
+	display: block;
+	font-size: 0.9rem;
+	font-style: italic;
+}
+
+ul.publications .journal {
+	color: #828282;
+	font-size: 0.9rem;
+}
+
+ul.publications .award {
+	color: #222222;
+	font-size: 0.9rem;
+	font-weight: bold;
+}
