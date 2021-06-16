@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sourav Chakraborty
-email: sourav@zcpy.net
+email: sourav@maxhpc.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sr. Software Development Engineer, Advanced Micro Devices (AMD)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zcpy.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://maxhpc.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: souravzzz
 github_username:  souravzzz
 
