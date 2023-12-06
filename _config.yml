@@ -21,7 +21,7 @@
 title: Sourav Chakraborty
 email: mail@souravc.com
 description: >- # this means to ignore newlines until "baseurl:"
-  HPC Middleware Engineer, Nvidia Networking
+  HPC Middleware Developer, Nvidia Networking
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://souravc.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: souravzzz
@@ -55,3 +55,4 @@ plugins:
 header_pages:
   - pubs.md
   - resume.md
+  - blog.md
