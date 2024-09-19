@@ -8,26 +8,8 @@ layout: home
 <img src="/assets/sourav_chakraborty.jpg" class="profile-picture" alt="Sourav Chakraborty profile picture" />
 
 
-<p>Sourav Chakraborty is a Senior Staff Software Engineer at Samsung,
-specializing in the architecture of high-performance communication runtimes for
-cutting-edge supercomputer systems designed for HPC and AI workloads. With over
-a decade of experience, Sourav has proven expertise in hardware-software
-co-design, development of LLM-powered applications, and leading globally
-distributed teams to deliver innovative software solutions. His work has
-consistently focused on enhancing the performance and scalability of
-large-scale systems, leveraging the latest advancements in CPUs, GPUs, and AI
-infrastructure.</p>
+<p>Sourav Chakraborty is a visionary leader and Senior Staff Software Engineer at Samsung, where he shapes the strategic direction of next-generation supercomputing projects. His work integrates cutting-edge AI industry trends, market research, and technical innovation to deliver high-performance solutions that drive both technical excellence and business impact. With over a decade of experience, Sourav specializes in the architecture of communication runtimes for HPC and AI workloads, balancing hardware-software co-design with scalable system performance. His leadership has been instrumental in delivering advanced AI-powered applications and guiding globally distributed teams to bring innovative solutions to life.</p>
 
-<p>Previously, Sourav worked as an HPC Middleware Developer at NVIDIA, where he
-spearheaded the development of offloaded collective frameworks for NVIDIA
-BlueField DPUs and contributed to the strategic planning of NVIDIA's SmartNICs
-software platform. He holds a PhD in Computer Science and Engineering from The
-Ohio State University, where he conducted pioneering research on scalable
-communication runtimes under the guidance of Prof. D. K. Panda. Sourav has more
-than 25 peer-reviewed publications in international conferences and 2 patents.
-He has also contributed to many open-source projects including UCX, MVAPICH2,
-NCCL, RCCL, and SLURM. He earned his Bachelor's degree from Jadavpur University
-and has also held key roles at AMD and Yahoo!.  Outside of his professional
-pursuits, Sourav enjoys photography and hiking, blending his technical
-expertise with a passion for capturing the beauty of the natural world.</p>
+<p>Before joining Samsung, Sourav played a pivotal role at NVIDIA as an HPC Middleware Developer, where he led the development of offloaded collective frameworks for NVIDIA BlueField DPUs and contributed to the strategic planning for SmartNICs software. His background also includes key roles at AMD and Yahoo!, where he consistently worked on pushing the boundaries of AI and HPC infrastructure. Sourav holds a PhD in Computer Science and Engineering from The Ohio State University and has authored more than 25 peer-reviewed publications, alongside holding two patents. His contributions extend into open-source communities with notable work in projects like UCX, MVAPICH2, NCCL, RCCL, and SLURM.</p>
 
+<p>Passionate about bringing advanced technologies like AI and LLMs to broader audiences, Sourav blends his deep technical expertise with a focus on user-centric design, ensuring his solutions are not only powerful but also intuitive and impactful. Outside of his professional work, he enjoys photography and hiking, pursuits that reflect his love for exploration, both in the natural world and in the field of technology.</p>
